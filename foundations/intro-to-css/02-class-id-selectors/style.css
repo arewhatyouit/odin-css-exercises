@@ -1,0 +1,26 @@
+.class1 {
+background-color: #fea7a6;
+font-size: 30px;
+font-weight: 600;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.class2 {
+background-color: #FEA7A6;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 45px;
+font-weight: 500;
+}
+
+#id1 {
+color: #0000FF;
+font-size: 60px;
+font-weight:699;
+
+}
+
+#id2 {
+background-color: #81FE80;
+font-weight: 1000;
+font-size: 40px;
+}
